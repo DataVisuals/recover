@@ -1,0 +1,61 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

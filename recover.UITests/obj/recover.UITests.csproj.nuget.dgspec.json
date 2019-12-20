@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andrewspruce/Projects/recover/recover.UITests/recover.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/andrewspruce/Projects/recover/recover.UITests/recover.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrewspruce/Projects/recover/recover.UITests/recover.UITests.csproj",
+        "projectName": "recover.UITests",
+        "projectPath": "/Users/andrewspruce/Projects/recover/recover.UITests/recover.UITests.csproj",
+        "packagesPath": "/Users/andrewspruce/.nuget/packages/",
+        "outputPath": "/Users/andrewspruce/Projects/recover/recover.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/andrewspruce/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
