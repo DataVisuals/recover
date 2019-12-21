@@ -147,5 +147,10 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\recover512.png" />
+    <BundleResource Include="Resources\amberlight.png" />
+    <BundleResource Include="Resources\greenlight.png" />
+    <BundleResource Include="Resources\redlight.png" />
+    <BundleResource Include="Resources\envelope256.png" />
+    <BundleResource Include="Resources\envelope.png" />
   </ItemGroup>
 </Project>

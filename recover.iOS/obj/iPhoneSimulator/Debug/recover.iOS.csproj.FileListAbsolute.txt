@@ -64,3 +64,8 @@
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/recover.iOS.csproj.CopyComplete
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/recover.iOS.exe
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/recover.iOS.pdb
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/amberlight.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/greenlight.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/redlight.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/envelope256.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/envelope.png
