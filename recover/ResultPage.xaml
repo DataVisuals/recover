@@ -8,7 +8,7 @@
                     <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
                            Text="The packaging for this product could be recycled but isn't in "/>
                     <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
-                           Text="Tower Hamlets" FontAttributes="Bold"/>
+                           Text="{Binding ResultText}" FontAttributes="Bold" x:Name="Council"/>
                     <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
                            Text="Please feedback to your local council using the link below."/>
                     <Image Source="envelope256.png" WidthRequest="128" HeightRequest="128"/>

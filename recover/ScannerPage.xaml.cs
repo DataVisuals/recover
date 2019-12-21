@@ -29,15 +29,19 @@ namespace recover
                     string responseFromServer = getPostCodeResponse(location);
                     JObject o = JObject.Parse(responseFromServer);
                     string postcode = (string)o.SelectToken("result[0].postcode");
-                    string admindistrict = (string)o.SelectToken("result[0].admin_district");
-                    if (location != null)
+                    string ad = (string)o.SelectToken("result[0].admin_district");
+
+                    var res = new LookupResults
                     {
-                        await DisplayAlert("Scanned result", "Product Code: " + result.Text +
-                            " Location is: " + location.ToString() + " Content: " + postcode, "OK");
-                    }
-                    //var resultPage = new ResultPage();
-                    //resultPage.BindingContext = contact;
-                    //await Navigation.PushAsync(resultPage);
+                        PostCode = postcode,
+                        AdminDistrict = ad,
+                        ProductCode = result.Text,
+                        ResultText = ad + " (" + postcode + ")"
+                     };
+
+                    ResultPage resultPage = new ResultPage();
+                    resultPage.BindingContext = res;
+                    await Navigation.PushAsync(resultPage);
                 }
                 catch (Exception ex)
                 {

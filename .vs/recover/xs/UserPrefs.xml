@@ -1,12 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover/ResultPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recover.iOS/Main.cs">
     <Files>
-      <File FileName="recover/WelcomeTabbedPage.xaml" Line="14" Column="1" />
-      <File FileName="recover/ScannerPage.xaml.cs" Line="43" Column="18" />
-      <File FileName="recover/App.xaml.cs" Line="11" Column="35" />
-      <File FileName="recover/ResultPage.xaml" Line="1" Column="1" />
-      <File FileName="recover/ResultPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="recover/ScannerPage.xaml" Line="1" Column="1" />
+      <File FileName="recover/ScannerPage.xaml.cs" Line="32" Column="83" />
+      <File FileName="recover/ResultPage.xaml" Line="19" Column="15" />
+      <File FileName="recover/EmptyClass.cs" Line="18" Column="6" />
+      <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="recover.iOS/Main.cs" Line="20" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,12 +14,12 @@
           <Node name="recover" expanded="True">
             <Node name="recover" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="ResultPage.xaml" expanded="True">
-                <Node name="ResultPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="ResultPage.xaml" expanded="True" />
               <Node name="ScannerPage.xaml" expanded="True" />
             </Node>
-            <Node name="recover.iOS" expanded="True" />
+            <Node name="recover.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -33,7 +32,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/MyContentPage.xaml.cs" relfile="recover/MyContentPage.xaml.cs" line="17" column="1" />
-      <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/ScannerPage.xaml.cs" relfile="recover/ScannerPage.xaml.cs" line="31" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
