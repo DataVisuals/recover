@@ -1,9 +1,12 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recover/ResultPage.xaml.cs">
     <Files>
-      <File FileName="recover/WelcomeTabbedPage.xaml" Line="21" Column="19" />
-      <File FileName="recover/ScannerPage.xaml.cs" Line="45" Column="10" />
-      <File FileName="recover/App.xaml.cs" Line="13" Column="43" />
+      <File FileName="recover/WelcomeTabbedPage.xaml" Line="14" Column="1" />
+      <File FileName="recover/ScannerPage.xaml.cs" Line="43" Column="18" />
+      <File FileName="recover/App.xaml.cs" Line="11" Column="35" />
+      <File FileName="recover/ResultPage.xaml" Line="1" Column="1" />
+      <File FileName="recover/ResultPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="recover/ScannerPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +14,9 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="recover" expanded="True">
             <Node name="recover" expanded="True">
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ResultPage.xaml" expanded="True">
+                <Node name="ResultPage.xaml.cs" selected="True" />
               </Node>
               <Node name="ScannerPage.xaml" expanded="True" />
             </Node>

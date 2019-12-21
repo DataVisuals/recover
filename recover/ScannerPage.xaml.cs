@@ -35,6 +35,9 @@ namespace recover
                         await DisplayAlert("Scanned result", "Product Code: " + result.Text +
                             " Location is: " + location.ToString() + " Content: " + postcode, "OK");
                     }
+                    //var resultPage = new ResultPage();
+                    //resultPage.BindingContext = contact;
+                    //await Navigation.PushAsync(resultPage);
                 }
                 catch (Exception ex)
                 {

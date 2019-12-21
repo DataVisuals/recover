@@ -595,7 +595,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0
-	.byte 196,212,84,168,65,32,180,81,81,60,42,150,50,43,125,96
+	.byte 28,136,15,209,20,105,115,13,194,86,237,221,67,214,98,127
 	.globl _mono_aot_module_recover_iOS_info
 	.align 3
 _mono_aot_module_recover_iOS_info:

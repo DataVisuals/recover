@@ -10,19 +10,6 @@
             </StackLayout>
         </ContentPage>
         <local:ScannerPage Title="Scanner" />
-        <ContentPage Title="Result">
-            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                    <Image Source="amberlight.png"  WidthRequest="256" HeightRequest="256"/>
-                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
-                           Text="The packaging for this product could be recycled but isn't in "/>
-                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
-                           Text="Tower Hamlets" FontAttributes="Bold"/>
-                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
-                           Text="Please feedback to your local council using the link below."/>
-                    <Image Source="envelope256.png" WidthRequest="128" HeightRequest="128"/>
-                 <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Black" FontSize="16"
-                           Text="Please feed back" FontAttributes="Bold"/>
-               </StackLayout>
-        </ContentPage>
+        <local:ResultPage  Title="Result" />
     </TabbedPage.Children>
 </TabbedPage>
