@@ -1,5 +1,4 @@
-# recover
-# recover
+# Recover
 
 Recover is a mobile app that provides you with the information you need to make better choices in products based on the recycability of the plastics in their packaging.
 
