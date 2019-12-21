@@ -26,8 +26,10 @@ namespace recover
                 {
                     // Where are we?
                     var location = await Geolocation.GetLastKnownLocationAsync();
-                    string postcode = getPostCode(location);
-
+                    string responseFromServer = getPostCodeResponse(location);
+                    JObject o = JObject.Parse(responseFromServer);
+                    string postcode = (string)o.SelectToken("result[0].postcode");
+                    string admindistrict = (string)o.SelectToken("result[0].admin_district");
                     if (location != null)
                     {
                         await DisplayAlert("Scanned result", "Product Code: " + result.Text +
@@ -42,10 +44,9 @@ namespace recover
             });
         }
 
-        // Take a location, returns a postcode (hopefully)
-        public string getPostCode(Location location)
+        // Take a location, returns a response string
+        public string getPostCodeResponse(Location location)
         {
-            string postcode = null;
 
             // Reverse lookup postcode from location
             var url = String.Format("https://api.postcodes.io/postcodes?lon={0}&lat={1}", location.Longitude, location.Latitude);
@@ -53,7 +54,7 @@ namespace recover
 
             // If required by the server, set the credentials.  
             request.Credentials = CredentialCache.DefaultCredentials;
-
+            string responseFromServer = null;
             // Get the response.
             try
             {
@@ -68,9 +69,7 @@ namespace recover
                     // Open the stream using a StreamReader for easy access.  
                     StreamReader reader = new StreamReader(dataStream);
                     // Read the content.  
-                    string responseFromServer = reader.ReadToEnd();
-                    JObject o = JObject.Parse(responseFromServer);
-                    postcode = (string)o.SelectToken("result[0].postcode");
+                    responseFromServer = reader.ReadToEnd();
                 }
 
                 // Close the response.  
@@ -80,7 +79,7 @@ namespace recover
             {
                 Console.WriteLine(ex.ToString());
             }
-            return postcode;
+            return responseFromServer;
         }
     }
 }

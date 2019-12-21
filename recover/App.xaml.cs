@@ -10,7 +10,7 @@ namespace recover
         {
             InitializeComponent();
 
-            MainPage = new WelcomeTabbedPage();
+            MainPage = new NavigationPage(new WelcomeTabbedPage());
         }
 
         protected override void OnStart()
