@@ -1,11 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recover/WelcomeTabbedPage.xaml">
     <Files>
-      <File FileName="recover/ScannerPage.xaml.cs" Line="32" Column="83" />
-      <File FileName="recover/ResultPage.xaml" Line="19" Column="15" />
-      <File FileName="recover/EmptyClass.cs" Line="18" Column="6" />
-      <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="recover.iOS/Main.cs" Line="20" Column="2" />
+      <File FileName="recover/ScannerPage.xaml.cs" Line="93" Column="1" />
+      <File FileName="recover/ResultPage.xaml" />
+      <File FileName="recover.iOS/Main.cs" />
+      <File FileName="recover/WelcomeTabbedPage.xaml" Line="15" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,12 +13,10 @@
           <Node name="recover" expanded="True">
             <Node name="recover" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="ResultPage.xaml" expanded="True" />
               <Node name="ScannerPage.xaml" expanded="True" />
+              <Node name="WelcomeTabbedPage.xaml" selected="True" />
             </Node>
-            <Node name="recover.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="recover.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,8 +24,8 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.recover.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.ItemProperties.recover.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-001919261461002E" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.recover.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.343FDD26-5893-4D74-A33D-16D522978384" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/MyContentPage.xaml.cs" relfile="recover/MyContentPage.xaml.cs" line="17" column="1" />

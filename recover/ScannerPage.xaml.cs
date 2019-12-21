@@ -18,6 +18,7 @@ namespace recover
             InitializeComponent();
         }
 
+        // Hit when an image can find a barcode and resolves it
         public void Handle_OnScanResult(Result result)
         {
             Device.BeginInvokeOnMainThread(async () =>
