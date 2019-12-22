@@ -38,5 +38,9 @@
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Share your location so we can find your local councils recycling policies.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>fa-solid-900.ttf</string>
+	</array>
 </dict>
 </plist>

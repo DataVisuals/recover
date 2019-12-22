@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recover.ProductNotFoundPage"
+             xmlns:local="clr-namespace:recover;assembly=recover">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" >
+            <Label Text="Couldn't find this product, please help us by saving some key data for"
+                   HorizontalTextAlignment="Center"
+                   FontSize="30"
+                   TextColor="Green"/>
+            <Label Text="{Binding ProductCode}"
+                   HorizontalTextAlignment="Center"
+                   TextColor="Green"/>
+
+            <Entry Placeholder="Product ID" WidthRequest="80" Text="{Binding ProductCode}" IsReadOnly="true"/>
+            <Entry Placeholder="Product Name" WidthRequest="100"/>
+            <Picker     x:Name="PackagingType"
+                        Title="Choose Packaging Type"
+                        TitleColor="Green">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>#1 - PET (Polyethylene Terephthalate)</x:String>
+                        <x:String>#2 - HDPE (High-Density Polyethylene)</x:String>
+                        <x:String>#3 – PVC (Polyvinyl Chloride)</x:String>
+                        <x:String>#4 – LDPE (Low-Density Polyethylene)</x:String>
+                        <x:String>#5 – PP (Polypropylene)</x:String>
+                        <x:String>#6 – PS (Polystyrene)</x:String>
+                        <x:String>#7 - Other</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+
+            </Picker>
+            <local:FontAwesomeIcon Text="{x:Static local:Icon.Save}"
+                                   FontSize="100"
+                                   HorizontalTextAlignment="Center"
+                                   TextColor="Green"
+                                   />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+<!-- TODO try out https://github.com/robinmanuelthiel/flexbutton -->

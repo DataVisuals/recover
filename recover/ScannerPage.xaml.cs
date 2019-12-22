@@ -31,18 +31,29 @@ namespace recover
                     JObject o = JObject.Parse(responseFromServer);
                     string postcode = (string)o.SelectToken("result[0].postcode");
                     string ad = (string)o.SelectToken("result[0].admin_district");
+                    string productName = getProductName(result.Text);
 
                     var res = new LookupResults
                     {
                         PostCode = postcode,
                         AdminDistrict = ad,
                         ProductCode = result.Text,
+                        ProductName = productName,
                         ResultText = ad + " (" + postcode + ")"
-                     };
+                    };
 
-                    ResultPage resultPage = new ResultPage();
-                    resultPage.BindingContext = res;
-                    await Navigation.PushAsync(resultPage);
+                    if (productName != null)
+                    {
+                        ResultPage resultPage = new ResultPage();
+                        resultPage.BindingContext = res;
+                        await Navigation.PushAsync(resultPage);
+                    }
+                    else
+                    {
+                        ProductNotFoundPage notFound = new ProductNotFoundPage();
+                        notFound.BindingContext = res;
+                        await Navigation.PushAsync(notFound);
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -53,6 +64,7 @@ namespace recover
         }
 
         // Take a location, returns a response string
+        // TODO refactor the REST request/response code to reuse.
         public string getPostCodeResponse(Location location)
         {
 
@@ -88,6 +100,47 @@ namespace recover
                 Console.WriteLine(ex.ToString());
             }
             return responseFromServer;
+        }
+
+        public string getProductName(string ean)
+        {
+            string productName = null;
+
+            // find product from EAN
+            var url = String.Format("https://world.openfoodfacts.org/api/v0/product/{0}.json", ean);
+            var request = WebRequest.CreateHttp(url);
+
+            // If required by the server, set the credentials.  
+            request.Credentials = CredentialCache.DefaultCredentials;
+            string responseFromServer = null;
+            // Get the response.
+            try
+            {
+                WebResponse response = request.GetResponse();
+                // Display the status.  
+                Console.WriteLine(((HttpWebResponse)response).StatusDescription);
+
+                // Get the stream containing content returned by the server. 
+                // The using block ensures the stream is automatically closed. 
+                using (Stream dataStream = response.GetResponseStream())
+                {
+                    // Open the stream using a StreamReader for easy access.  
+                    StreamReader reader = new StreamReader(dataStream);
+                    // Read the content.  
+                    responseFromServer = reader.ReadToEnd();
+                }
+
+                // Close the response.  
+                response.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+            JObject o = JObject.Parse(responseFromServer);
+            Console.Write(o);
+            productName = (string)o.SelectToken("product.product_name");
+            return productName;
         }
     }
 }

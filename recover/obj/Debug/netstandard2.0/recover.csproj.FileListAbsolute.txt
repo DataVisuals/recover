@@ -3,6 +3,7 @@
 /Users/andrewspruce/Projects/recover/recover/bin/Debug/netstandard2.0/ref/recover.dll
 /Users/andrewspruce/Projects/recover/recover/bin/Debug/netstandard2.0/recover.pdb
 /Users/andrewspruce/Projects/recover/recover/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/andrewspruce/Projects/recover/recover/obj/Debug/netstandard2.0/ProductNotFoundPage.xaml.g.cs
 /Users/andrewspruce/Projects/recover/recover/obj/Debug/netstandard2.0/ResultPage.xaml.g.cs
 /Users/andrewspruce/Projects/recover/recover/obj/Debug/netstandard2.0/ScannerPage.xaml.g.cs
 /Users/andrewspruce/Projects/recover/recover/obj/Debug/netstandard2.0/WelcomeTabbedPage.xaml.g.cs

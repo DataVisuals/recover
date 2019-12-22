@@ -36,6 +36,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Forms.Controls.FlexButton": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

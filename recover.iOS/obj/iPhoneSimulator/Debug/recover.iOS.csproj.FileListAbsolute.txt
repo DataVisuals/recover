@@ -69,3 +69,5 @@
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/redlight.png
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/envelope256.png
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/envelope.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/recycle180.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/recycle120.png

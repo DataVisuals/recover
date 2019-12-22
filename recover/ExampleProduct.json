@@ -1,0 +1,265 @@
+﻿{
+  "code": "5027952013457",
+  "status_verbose": "product found",
+  "status": 1,
+  "product": {
+    "amino_acids_prev_tags": [],
+    "pnns_groups_2": "unknown",
+    "no_nutrition_data": "",
+    "ingredients_hierarchy": [],
+    "max_imgid": "2",
+    "amino_acids_tags": [],
+    "ingredients_debug": [],
+    "nova_group_tags": [ "not-applicable" ],
+    "ingredients_text_with_allergens": null,
+    "data_quality_tags": [],
+    "additives_tags": [],
+    "nutrition_data_prepared_per": "100g",
+    "allergens_tags": [],
+    "languages_tags": [ "en:french", "en:1" ],
+    "data_quality_warnings_tags": [],
+    "countries": "France",
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "nutrition_score_debug": "no score when the product does not have a category",
+    "nutrition_grades_tags": [ "not-applicable" ],
+    "editors_tags": [ "yuka.UzZVclRxTVp1LzBXdWZBQzR5bkg4SWtsNUpQMlEwVzlEKzhiSVE9PQ", "kiliweb", "openfoodfacts-contributors" ],
+    "update_key": "nutriscore",
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.100.jpg",
+    "languages_hierarchy": [ "en:french" ],
+    "vitamins_tags": [],
+    "id": "5027952013457",
+    "created_t": 1540371592,
+    "completeness": 0.283333333333333,
+    "last_modified_t": 1540371594,
+    "checkers_tags": [],
+    "informers_tags": [ "yuka.UzZVclRxTVp1LzBXdWZBQzR5bkg4SWtsNUpQMlEwVzlEKzhiSVE9PQ", "kiliweb" ],
+    "ingredients_text_with_allergens_fr": null,
+    "code": "5027952013457",
+    "ingredients_tags": [],
+    "selected_images": {
+      "front": {
+        "small": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.200.jpg" },
+        "display": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.400.jpg" },
+        "thumb": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.100.jpg" }
+      },
+      "ingredients": {
+        "thumb": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.100.jpg" },
+        "small": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.200.jpg" },
+        "display": { "fr": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.400.jpg" }
+      }
+    },
+    "image_front_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.400.jpg",
+    "unknown_ingredients_n": 0,
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.200.jpg",
+    "_keywords": [ "brioche", "vanille" ],
+    "entry_dates_tags": [ "2018-10-24", "2018-10", "2018" ],
+    "data_quality_bugs_tags": [],
+    "ingredients_original_tags": [],
+    "additives_prev_original_tags": [],
+    "interface_version_created": "20150316.jqm2",
+    "other_nutritional_substances_tags": [],
+    "additives_old_tags": [],
+    "unknown_nutrients_tags": [],
+    "vitamins_prev_tags": [],
+    "traces_tags": [],
+    "minerals_prev_tags": [],
+    "correctors_tags": [ "openfoodfacts-contributors" ],
+    "additives_debug_tags": [],
+    "lc": "fr",
+    "last_image_t": 1540371594,
+    "additives_original_tags": [],
+    "ingredients": [],
+    "pnns_groups_1": "unknown",
+    "languages_codes": { "fr": 3 },
+    "nutrition_data_per_debug_tags": [],
+    "codes_tags": [ "code-13", "5027952013457", "502795201345x", "50279520134xx", "5027952013xxx", "502795201xxxx", "50279520xxxxx", "5027952xxxxxx", "502795xxxxxxx", "50279xxxxxxxx", "5027xxxxxxxxx", "502xxxxxxxxxx", "50xxxxxxxxxxx", "5xxxxxxxxxxxx" ],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.400.jpg",
+    "_id": "5027952013457",
+    "last_editor": null,
+    "nutrition_data_per": "100g",
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.100.jpg",
+    "lang": "fr",
+    "pnns_groups_2_tags": [ "unknown", "missing-category" ],
+    "last_edit_dates_tags": [ "2018-10-24", "2018-10", "2018" ],
+    "product_name": "Brioche vanille",
+    "nutrient_levels_tags": [],
+    "states_tags": [ "en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-to-be-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-to-be-completed", "en:categories-to-be-completed", "en:brands-to-be-completed", "en:packaging-to-be-completed", "en:quantity-to-be-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded" ],
+    "images": {
+      "1": {
+        "uploaded_t": 1540371592,
+        "sizes": {
+          "full": {
+            "h": 1200,
+            "w": 899
+          },
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          }
+        },
+        "uploader": "kiliweb"
+      },
+      "front_fr": {
+        "normalize": "0",
+        "sizes": {
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "h": 1200,
+            "w": 899
+          },
+          "200": {
+            "w": 150,
+            "h": 200
+          }
+        },
+        "geometry": "0x0-0-0",
+        "rev": "4",
+        "y1": null,
+        "angle": null,
+        "imgid": "1",
+        "white_magic": "0",
+        "x2": null,
+        "x1": null,
+        "y2": null
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 84
+          },
+          "400": {
+            "h": 400,
+            "w": 337
+          },
+          "full": {
+            "w": 1010,
+            "h": 1200
+          }
+        },
+        "uploaded_t": 1540371593,
+        "uploader": "kiliweb"
+      },
+      "ingredients_fr": {
+        "ocr": 1,
+        "orientation": null,
+        "y2": null,
+        "x1": null,
+        "white_magic": "0",
+        "imgid": "2",
+        "x2": null,
+        "angle": null,
+        "rev": "7",
+        "geometry": "0x0-0-0",
+        "y1": null,
+        "normalize": "0",
+        "sizes": {
+          "200": {
+            "h": 200,
+            "w": 168
+          },
+          "full": {
+            "h": 1200,
+            "w": 1010
+          },
+          "400": {
+            "h": 400,
+            "w": 337
+          },
+          "100": {
+            "h": 100,
+            "w": 84
+          }
+        }
+      }
+    },
+    "last_modified_by": null,
+    "last_image_dates_tags": [ "2018-10-24", "2018-10", "2018" ],
+    "image_small_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.200.jpg",
+    "data_sources": "App - yuka, Apps",
+    "misc_tags": [ "en:nutriscore-not-computed" ],
+    "states_hierarchy": [ "en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-to-be-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-to-be-completed", "en:categories-to-be-completed", "en:brands-to-be-completed", "en:packaging-to-be-completed", "en:quantity-to-be-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded" ],
+    "ingredients_from_palm_oil_tags": [],
+    "nucleotides_tags": [],
+    "rev": 7,
+    "interface_version_modified": "20150316.jqm2",
+    "pnns_groups_1_tags": [ "unknown", "missing-category" ],
+    "nutriments": {
+      "salt_unit": "",
+      "proteins": 6.5,
+      "sugars": 14.5,
+      "salt_value": 0.8,
+      "salt_100g": 0.8,
+      "carbohydrates_value": 44.9,
+      "carbohydrates_unit": "",
+      "proteins_unit": "",
+      "proteins_value": 6.5,
+      "energy-kcal_value": 286,
+      "sodium_100g": 0.32,
+      "proteins_100g": 6.5,
+      "energy_value": 286,
+      "saturated-fat_value": 3.2,
+      "saturated-fat_100g": 3.2,
+      "sugars_unit": "",
+      "carbohydrates": 44.9,
+      "sugars_value": 14.5,
+      "energy_100g": 1197,
+      "energy-kcal_100g": 1197,
+      "energy": 1197,
+      "carbohydrates_100g": 44.9,
+      "fat": 8.9,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal": 1197,
+      "fat_value": 8.9,
+      "sugars_100g": 14.5,
+      "salt": 0.8,
+      "sodium_value": 0.32,
+      "sodium_unit": "g",
+      "fat_unit": "",
+      "energy_unit": "kcal",
+      "saturated-fat": 3.2,
+      "saturated-fat_unit": "",
+      "sodium": 0.32,
+      "fat_100g": 8.9
+    },
+    "countries_hierarchy": [ "en:france" ],
+    "sortkey": 201540371594,
+    "minerals_tags": [],
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.100.jpg",
+    "nova_group_debug": "no nova group when the product does not have ingredients",
+    "creator": "kiliweb",
+    "ingredients_ids_debug": [],
+    "complete": 0,
+    "product_name_debug_tags": [],
+    "allergens_hierarchy": [],
+    "languages": { "en:french": 3 },
+    "countries_debug_tags": [],
+    "allergens_from_ingredients": "",
+    "traces_hierarchy": [],
+    "traces_from_ingredients": "",
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-to-be-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+    "nucleotides_prev_tags": [],
+    "image_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/front_fr.4.400.jpg",
+    "product_name_fr": "Brioche vanille",
+    "data_sources_tags": [ "app-yuka", "apps" ],
+    "countries_tags": [ "en:france" ],
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/502/795/201/3457/ingredients_fr.7.200.jpg",
+    "data_quality_info_tags": [],
+    "nutrient_levels": {},
+    "photographers_tags": [ "kiliweb" ],
+    "ingredients_text_debug": null,
+    "data_quality_errors_tags": [],
+    "countries_lc": "fr"
+  }
+}

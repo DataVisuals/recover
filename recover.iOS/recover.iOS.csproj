@@ -107,10 +107,10 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\icon120.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover120.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover76-1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover512.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -152,5 +152,10 @@
     <BundleResource Include="Resources\redlight.png" />
     <BundleResource Include="Resources\envelope256.png" />
     <BundleResource Include="Resources\envelope.png" />
+    <BundleResource Include="Resources\recycle180.png" />
+    <BundleResource Include="Resources\recycle120.png" />
+    <BundleResource Include="Resources\fa-solid-900.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
   </ItemGroup>
 </Project>

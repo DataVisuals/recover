@@ -11,6 +11,8 @@ namespace recover
 
         public string ProductCode { get; set; }
 
+        public string ProductName { get; set; }
+
         public override string ToString()
         {
             return AdminDistrict + " ("+PostCode+")";
