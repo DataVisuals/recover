@@ -13,3 +13,8 @@ Requirements
 - registration of target devices and macbook with apple developer account.
 - provisioning bundle and keys
 
+
+
+
+
+
