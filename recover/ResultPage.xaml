@@ -15,7 +15,8 @@
                            Text="{Binding ResultText}" FontAttributes="Bold" x:Name="Council"/>
             <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Green" FontSize="20"
                            Text="Please feedback to your local council using the link below."/>
-            <Image Source="envelope256.png" WidthRequest="128" HeightRequest="128"/>
+
+            <ImageButton Source="envelope256.png" WidthRequest="128" HeightRequest="128" Clicked="OnEmailClicked"/>
             <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Black" FontSize="16"
                            Text="Please feed back" FontAttributes="Bold"/>
         </StackLayout>

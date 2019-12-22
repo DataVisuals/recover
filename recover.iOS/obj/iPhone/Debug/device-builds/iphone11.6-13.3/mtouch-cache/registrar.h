@@ -9,6 +9,7 @@
 #include <objc/message.h>
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import <MessageUI/MessageUI.h>
 #import <MediaPlayer/MediaPlayer.h>
 #import <GLKit/GLKit.h>
 #import <CoreSpotlight/CoreSpotlight.h>
@@ -21,6 +22,9 @@
 @class UIApplicationDelegate;
 @class Xamarin_Forms_Platform_iOS_FormsApplicationDelegate;
 @class AppDelegate;
+@class UINavigationControllerDelegate;
+@class MFMailComposeViewControllerDelegate;
+@class MessageUI_Mono_MFMailComposeViewControllerDelegate;
 @class GLKViewDelegate;
 @class CLLocationManagerDelegate;
 @class WKNavigationDelegate;
@@ -31,7 +35,6 @@
 @class UIActivityItemSource;
 @class UICollectionViewDelegateFlowLayout;
 @class UIGestureRecognizerDelegate;
-@class UINavigationControllerDelegate;
 @class UIPickerViewModel;
 @class UIScrollViewDelegate;
 @class UISearchResultsUpdating;
@@ -248,6 +251,16 @@
 	-(id) init;
 @end
 
+@interface UINavigationControllerDelegate : NSObject<UINavigationControllerDelegate> {
+}
+	-(id) init;
+@end
+
+@interface MFMailComposeViewControllerDelegate : NSObject<UINavigationControllerDelegate, MFMailComposeViewControllerDelegate, UINavigationControllerDelegate> {
+}
+	-(id) init;
+@end
+
 @interface GLKViewDelegate : NSObject<GLKViewDelegate> {
 }
 	-(id) init;
@@ -287,11 +300,6 @@
 @end
 
 @interface UIGestureRecognizerDelegate : NSObject<UIGestureRecognizerDelegate> {
-}
-	-(id) init;
-@end
-
-@interface UINavigationControllerDelegate : NSObject<UINavigationControllerDelegate> {
 }
 	-(id) init;
 @end

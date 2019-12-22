@@ -17294,7 +17294,7 @@ bl _p_74
 .word 0xaa1703e0
 .word 0xaa1703e0
 .word 0xf94002e1
-.word 0xf9429830
+.word 0xf9429c30
 .word 0xd63f0200
 .word 0xf9002ba0
 .word 0xf9401fb1
@@ -17325,7 +17325,7 @@ bl _p_74
 .word 0xaa1703e0
 .word 0xaa1703e0
 .word 0xf94002e1
-.word 0xf9429830
+.word 0xf9429c30
 .word 0xd63f0200
 .word 0xf9002ba0
 .word 0xf9401fb1
@@ -59711,7 +59711,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0
-	.byte 54,157,219,195,176,164,169,51,148,11,124,42,60,7,160,3
+	.byte 234,84,1,30,210,235,9,151,35,204,166,152,139,85,16,219
 	.globl _mono_aot_module_ZXingNetMobile_info
 	.align 3
 _mono_aot_module_ZXingNetMobile_info:

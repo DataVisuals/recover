@@ -1,19 +1,21 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover/RestFacade.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recover/ResultPage.xaml.cs">
     <Files>
-      <File FileName="recover/WelcomeTabbedPage.xaml" Line="22" Column="1" />
-      <File FileName="recover/Icon.cs" Line="15" Column="44" />
-      <File FileName="recover/ScannerPage.xaml.cs" Line="19" Column="10" />
-      <File FileName="recover/ScannerPage.xaml" Line="1" Column="1" />
-      <File FileName="recover/RestFacade.cs" Line="10" Column="29" />
+      <File FileName="recover.iOS/EmailFacade.cs" Line="22" Column="51" />
+      <File FileName="recover/ResultPage.xaml" Line="18" Column="90" />
+      <File FileName="recover/ResultPage.xaml.cs" Line="23" Column="10" />
+      <File FileName="recover/ScannerPage.xaml.cs" Line="27" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="recover" expanded="True">
             <Node name="recover" expanded="True">
-              <Node name="RestFacade.cs" selected="True" />
+              <Node name="ResultPage.xaml" expanded="True">
+                <Node name="ResultPage.xaml.cs" selected="True" />
+              </Node>
               <Node name="ScannerPage.xaml" expanded="True" />
+              <Node name="WelcomeTabbedPage.xaml" expanded="True" />
             </Node>
             <Node name="recover.iOS" expanded="True">
               <Node name="Resources" expanded="True" />
@@ -30,7 +32,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/ScannerPage.xaml.cs" relfile="recover/ScannerPage.xaml.cs" line="143" column="1" />
+      <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/ScannerPage.xaml.cs" relfile="recover/ScannerPage.xaml.cs" line="97" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

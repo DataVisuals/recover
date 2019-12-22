@@ -65,6 +65,7 @@
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/optimized/envelope.png
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/optimized/recycle180.png
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/optimized/recycle120.png
+/Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/optimized/recycle28.png
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/device-builds/iphone11.6-13.3/optimized/
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/recover.iOS.csprojAssemblyReference.cache
 /Users/andrewspruce/Projects/recover/recover.iOS/obj/iPhone/Debug/XamlC.stamp

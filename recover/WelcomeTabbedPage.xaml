@@ -15,7 +15,7 @@
 
         <ContentPage Title="About">
             <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
-                <Label HorizontalTextAlignment="Center" FontAttributes="Bold"
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="30"
                     Text="Thanks to Icon8, Open Food Facts, api.postcodes.io and FontAwesome"/>
             </StackLayout>
         </ContentPage>

@@ -22664,7 +22664,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0
-	.byte 226,111,91,144,162,127,0,66,110,62,160,223,69,12,51,190
+	.byte 221,198,4,204,227,68,221,62,208,170,100,164,178,142,83,8
 	.globl _mono_aot_module_System_Drawing_Common_info
 	.align 3
 _mono_aot_module_System_Drawing_Common_info:
