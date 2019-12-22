@@ -10,5 +10,11 @@
             </StackLayout>
         </ContentPage>
         <local:ScannerPage Title="Scanner" />
+        <ContentPage Title="About">
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold"
+                    Text="Thanks to Icon8, Open Food Facts, api.postcodes.io and FontAwesome"/>
+            </StackLayout>
+        </ContentPage>
     </TabbedPage.Children>
 </TabbedPage>
