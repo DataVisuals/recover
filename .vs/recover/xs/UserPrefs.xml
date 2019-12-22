@@ -1,20 +1,17 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover/ProductNotFoundPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="recover/ScannerPage.xaml.cs" Line="142" Column="57" />
-      <File FileName="recover/ProductNotFoundPage.xaml" Line="35" Column="23" />
+      <File FileName="recover/ProductNotFoundPage.xaml" Line="12" Column="48" />
       <File FileName="recover/WelcomeTabbedPage.xaml" Line="13" Column="27" />
+      <File FileName="README.md" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="recover" expanded="True">
-            <Node name="recover" expanded="True">
-              <Node name="ScannerPage.xaml" expanded="True" />
-            </Node>
-            <Node name="recover.iOS" expanded="True" />
-            <Node name="recover.UITests" expanded="True" />
+            <Node name="README.md" selected="True" />
           </Node>
         </State>
       </Pad>
