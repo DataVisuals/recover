@@ -4,24 +4,6 @@ Recover is a mobile app that provides you with the information you need to make 
 
 For more see the presentation [here](https://docs.google.com/presentation/d/1kT1nGTNE2-ZQID4UEP2t_JoTGPLpyhwWlXIDHPZ00Nk/edit?usp=sharing)
 
-# TODO
-
-## App
-
-- Replace the picker in the product not found page with a clickable set of images
-- Add mailto feature to the envelope icon on the product found page
-- Add lookup to the new packaging info service below
-
-## Packaging Info Service
-
-- Build a REST service to get and set product data assuming -
-    - Get takes an EAN and returns the packaging types
-    - Set takes a product id, product name and packaging type
-
-## Council Policy Service
-
-- Build a service that allows editing and retrieval of council policies by the 7 plastic types.
-
 ## Current features
 
 - Builds for IOS only currently, shouldn't be much work to get it working for android.
