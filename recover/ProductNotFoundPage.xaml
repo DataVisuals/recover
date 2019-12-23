@@ -3,18 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="recover.ProductNotFoundPage"
              xmlns:local="clr-namespace:recover;assembly=recover">
+
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" >
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
             <Label Text="We couldn't find this product, please help us by saving some key data for"
                    HorizontalTextAlignment="Center"
                    FontSize="30"
                    TextColor="Green"/>
+
             <Label Text="{Binding ProductCode}"
                    HorizontalTextAlignment="Center"
-                   TextColor="Green"/>
+                   TextColor="Green"
+                   FontSize="30"/>
 
             <Entry Placeholder="Product ID" WidthRequest="80" Text="{Binding ProductCode}" IsReadOnly="true"/>
+
             <Entry Placeholder="Product Name" WidthRequest="100"/>
+
             <Picker     x:Name="PackagingType"
                         Title="Choose Packaging Type"
                         TitleColor="Green">
@@ -31,11 +38,9 @@
                 </Picker.ItemsSource>
 
             </Picker>
-            <local:FontAwesomeIcon Text="{x:Static local:Icon.Save}"
-                                   FontSize="100"
-                                   HorizontalTextAlignment="Center"
-                                   TextColor="Green"
-                                   />
+
+           <ImageButton Source="icons8-upload-to-cloud-128.png"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

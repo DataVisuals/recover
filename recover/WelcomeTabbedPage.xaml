@@ -5,15 +5,15 @@
             xmlns:local="clr-namespace:recover;assembly=recover">
     <TabbedPage.Children>
 
-        <ContentPage Title="Welcome">
+        <ContentPage Title="Welcome" IconImageSource="icons8-recycle-30.png">
             <StackLayout VerticalOptions="Center">
                 <Image Source="recover512.png" />
             </StackLayout>
         </ContentPage>
 
-        <local:ScannerPage Title="Scanner" />
+        <local:ScannerPage Title="Scanner" IconImageSource="icons8-barcode-30.png"/>
 
-        <ContentPage Title="About">
+        <ContentPage Title="About" IconImageSource="icons8-about-30.png">
             <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
                 <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="30"
                     Text="Thanks to Icon8, Open Food Facts, api.postcodes.io and FontAwesome"/>

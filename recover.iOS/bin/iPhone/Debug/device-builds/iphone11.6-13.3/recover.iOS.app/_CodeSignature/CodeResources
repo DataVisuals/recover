@@ -22,7 +22,7 @@
 		</data>
 		<key>AppIcon29x29@2x.png</key>
 		<data>
-		KB6zkDenLpSdumDo9KBRsOK7zs4=
+		yOKRDmMGO0ne+/HEfzMfF6dhbPs=
 		</data>
 		<key>AppIcon29x29@2x~ipad.png</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>AppIcon29x29@3x.png</key>
 		<data>
-		uXAifufBM6dBLpcYr0XwRYbX4QM=
+		KQcoUD0zEhZZf6TcnPGmaRI2+Mw=
 		</data>
 		<key>AppIcon29x29~ipad.png</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>AppIcon40x40@2x.png</key>
 		<data>
-		8ToZoz+trWlxnV1KjJE2FO3ojDU=
+		f3Ob5xOhAfuixkKwPdxsuzXddOA=
 		</data>
 		<key>AppIcon40x40@2x~ipad.png</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>AppIcon40x40@3x.png</key>
 		<data>
-		bb5r65gU6eO27yaWSMAnHbaJev4=
+		uDv5qFw/k5sPMK4yaopGTRvqii8=
 		</data>
 		<key>AppIcon40x40~ipad.png</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		8f9yXYS0G9ccMH3h3BSL9e6/v6I=
+		zaRbO2ugQpR6koNyqJIIZcqy38w=
 		</data>
 		<key>Calabash.aotdata.arm64</key>
 		<data>
@@ -464,6 +464,70 @@
 		<data>
 		4VDKqb4NQ3glITYDZKgfs10xlYQ=
 		</data>
+		<key>icons8-about-120.png</key>
+		<data>
+		EaF3aznsmmLoFP1xf0JHlbd1TgU=
+		</data>
+		<key>icons8-about-30.png</key>
+		<data>
+		GSOSB47HP7impbKb7tHVL8A3yFU=
+		</data>
+		<key>icons8-about-60.png</key>
+		<data>
+		vCfvgc8hOOtVvea6S37AsnJquWE=
+		</data>
+		<key>icons8-about-90.png</key>
+		<data>
+		+0uD/JAIpP8/wZ4ff+O+wOkxBTI=
+		</data>
+		<key>icons8-barcode-100.png</key>
+		<data>
+		2mkg0IQD8FpYcSOwzXEfSABmv3Y=
+		</data>
+		<key>icons8-barcode-30.png</key>
+		<data>
+		BVGW0tQYG0BtLiBlgeRIXUHEnAA=
+		</data>
+		<key>icons8-barcode-50.png</key>
+		<data>
+		nK7ULvRPoL+32IRdIbEhFWNguDw=
+		</data>
+		<key>icons8-recycle-100.png</key>
+		<data>
+		Zfv2pIa7yKD+uP6zH8G+8VQy0pM=
+		</data>
+		<key>icons8-recycle-150.png</key>
+		<data>
+		r5OqmAxAB0/dakKCxx1rvryPLKw=
+		</data>
+		<key>icons8-recycle-250.png</key>
+		<data>
+		X5AvRAQDm7G2ahYVFdilLTTUE4A=
+		</data>
+		<key>icons8-recycle-30.png</key>
+		<data>
+		JqgERXrXK72DDaSSR40+Umi2fmE=
+		</data>
+		<key>icons8-recycle-50.png</key>
+		<data>
+		p82jv4y2UD8eHOoS0e73Y9sPpoA=
+		</data>
+		<key>icons8-recycle-500.png</key>
+		<data>
+		2GErmBGL7kvaGzq2pFXocUGvP58=
+		</data>
+		<key>icons8-send-email-80.png</key>
+		<data>
+		YLtNsgMVLERjx9j5OfJQc4W6MUg=
+		</data>
+		<key>icons8-upload-to-cloud-128.png</key>
+		<data>
+		+DXvedU1QLqCg48/NoXa2pNxp+w=
+		</data>
+		<key>icons8-upload-to-cloud-512.png</key>
+		<data>
+		Gb6dwpVlMoCPFPNEiSSf77YebRM=
+		</data>
 		<key>id/Xamarin.Forms.Platform.iOS.resources.dll</key>
 		<data>
 		TLaLrKclEbY27SmVNk8EXBNQnqc=
@@ -518,15 +582,15 @@
 		</data>
 		<key>recover.aotdata.arm64</key>
 		<data>
-		+S3Bshnb/00Fj4itLLRyVZBeLto=
+		FThEMoAS2XA5cdJedlwuoaf2Jc0=
 		</data>
 		<key>recover.dll</key>
 		<data>
-		c7mvCUU6FEYBSXMz5X/Gkb9a11Q=
+		4odgi5Gymc4I4EmxpAbSFbnq45c=
 		</data>
 		<key>recover.iOS.aotdata.arm64</key>
 		<data>
-		Ci/c3/Cnl4YEHSQWenA3hVgcVwc=
+		yDo++z+N3JpzKh+MCKQziTrEx3Q=
 		</data>
 		<key>recover.iOS.exe</key>
 		<data>
@@ -538,7 +602,7 @@
 		</data>
 		<key>recover.pdb</key>
 		<data>
-		pBl9O6cuHZViTKoYmmr5jcTy8JE=
+		OLX3A5bfMRAMBdSojEDaEUuSy+Y=
 		</data>
 		<key>recover512.png</key>
 		<data>
@@ -555,6 +619,18 @@
 		<key>recycle28.png</key>
 		<data>
 		0GFmjMltaH/JhfS1noHtDINAcRo=
+		</data>
+		<key>recycle58.png</key>
+		<data>
+		yOKRDmMGO0ne+/HEfzMfF6dhbPs=
+		</data>
+		<key>recycle80.png</key>
+		<data>
+		f3Ob5xOhAfuixkKwPdxsuzXddOA=
+		</data>
+		<key>recycle87.png</key>
+		<data>
+		KQcoUD0zEhZZf6TcnPGmaRI2+Mw=
 		</data>
 		<key>redlight.png</key>
 		<data>
@@ -663,11 +739,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KB6zkDenLpSdumDo9KBRsOK7zs4=
+			yOKRDmMGO0ne+/HEfzMfF6dhbPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Qyiew88ltrKlCdA4V9llozY5UrMeWx4HjW7Q5ye/P0=
+			N35M9fAKRniLrWuSOtIDdpwwEAKON9TAXxpxdg8CRgA=
 			</data>
 		</dict>
 		<key>AppIcon29x29@2x~ipad.png</key>
@@ -685,11 +761,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uXAifufBM6dBLpcYr0XwRYbX4QM=
+			KQcoUD0zEhZZf6TcnPGmaRI2+Mw=
 			</data>
 			<key>hash2</key>
 			<data>
-			jqaVzmA0YVsQ4mA8u9qCpiB1/F4fidnkMrMvt5yFXoE=
+			cpT3TsuI8q6inAfqzfxzUTs+liQSI35uJ0YMskIiOcI=
 			</data>
 		</dict>
 		<key>AppIcon29x29~ipad.png</key>
@@ -707,11 +783,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8ToZoz+trWlxnV1KjJE2FO3ojDU=
+			f3Ob5xOhAfuixkKwPdxsuzXddOA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XBOgskECCH9y/tCU9XojjKaa9tTZzbOYR1t/awine0A=
+			dMtXBVlUCZM1oHWM/ZfuyW4tp4cwHQ83erKJRJfgGcM=
 			</data>
 		</dict>
 		<key>AppIcon40x40@2x~ipad.png</key>
@@ -729,11 +805,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bb5r65gU6eO27yaWSMAnHbaJev4=
+			uDv5qFw/k5sPMK4yaopGTRvqii8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tjvx5ovaJUIwgouZ7iNJAFMxLjvP6hqeF46S+H8/pWw=
+			Vtrtj97QOkLT8KnxRyyacM+0rwZ6nx0ksPRv4Q4+iM8=
 			</data>
 		</dict>
 		<key>AppIcon40x40~ipad.png</key>
@@ -806,11 +882,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8f9yXYS0G9ccMH3h3BSL9e6/v6I=
+			zaRbO2ugQpR6koNyqJIIZcqy38w=
 			</data>
 			<key>hash2</key>
 			<data>
-			eePKeYZ1JrhSqxpbib22MZfve/mI9Vh7/c7S2HnCOdU=
+			XB3Bp/q8y3wqxVzpqN9yQSWcV1cAOLkMJzz2wiawMgQ=
 			</data>
 		</dict>
 		<key>Calabash.aotdata.arm64</key>
@@ -1858,6 +1934,182 @@
 			NviXdIdRT/HyhSHtR005CyevNYS+Zjrff69znDJmYac=
 			</data>
 		</dict>
+		<key>icons8-about-120.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EaF3aznsmmLoFP1xf0JHlbd1TgU=
+			</data>
+			<key>hash2</key>
+			<data>
+			iI8kOar0MHdMDlmM/b9ql0BCEcDT6IAhDOywmC7WsX0=
+			</data>
+		</dict>
+		<key>icons8-about-30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GSOSB47HP7impbKb7tHVL8A3yFU=
+			</data>
+			<key>hash2</key>
+			<data>
+			toy8HcyjJofnFgii2oElttVZSA6gyvyIHhaT9y5ndFQ=
+			</data>
+		</dict>
+		<key>icons8-about-60.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vCfvgc8hOOtVvea6S37AsnJquWE=
+			</data>
+			<key>hash2</key>
+			<data>
+			l+8qzs5sytQlK6AEEGSx8ezvPU0J1KDpbULRA41XG9Y=
+			</data>
+		</dict>
+		<key>icons8-about-90.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+0uD/JAIpP8/wZ4ff+O+wOkxBTI=
+			</data>
+			<key>hash2</key>
+			<data>
+			pffNK147Qfu2Xc+vShxeiCxTxXsL71INOcEHfvvE30Q=
+			</data>
+		</dict>
+		<key>icons8-barcode-100.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2mkg0IQD8FpYcSOwzXEfSABmv3Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			9jkwC/WokxnvDraglmoqjsVWz1AsS74NmPUMXQAl0z8=
+			</data>
+		</dict>
+		<key>icons8-barcode-30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BVGW0tQYG0BtLiBlgeRIXUHEnAA=
+			</data>
+			<key>hash2</key>
+			<data>
+			+WcxPQaSsfRilpdWn/4G7YBf6WrIQPKUvZiBMZaQL3E=
+			</data>
+		</dict>
+		<key>icons8-barcode-50.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nK7ULvRPoL+32IRdIbEhFWNguDw=
+			</data>
+			<key>hash2</key>
+			<data>
+			wQSLfLyoSDG/0ifZlMumvgcT2pXlTEeLzCnfSd56Z6M=
+			</data>
+		</dict>
+		<key>icons8-recycle-100.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zfv2pIa7yKD+uP6zH8G+8VQy0pM=
+			</data>
+			<key>hash2</key>
+			<data>
+			58moZBphpG5fpWmGWyW9HJimzd1ZJ1W93PlfqLxKLBU=
+			</data>
+		</dict>
+		<key>icons8-recycle-150.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r5OqmAxAB0/dakKCxx1rvryPLKw=
+			</data>
+			<key>hash2</key>
+			<data>
+			DpxbnYwpldXe96/g+UKqy4Jq3x3NgrznHStXrNJf7I4=
+			</data>
+		</dict>
+		<key>icons8-recycle-250.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X5AvRAQDm7G2ahYVFdilLTTUE4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			gmoepD/w7rawl0WwMaj2SCvDX/eVd5B5KAel4KpHanE=
+			</data>
+		</dict>
+		<key>icons8-recycle-30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JqgERXrXK72DDaSSR40+Umi2fmE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ld1VhTzIBktbnn+Dmo9NkklKsnqmzbrwvH4Lx1aiqeU=
+			</data>
+		</dict>
+		<key>icons8-recycle-50.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p82jv4y2UD8eHOoS0e73Y9sPpoA=
+			</data>
+			<key>hash2</key>
+			<data>
+			K6jIFWIrFQGoAuRczSfO2FCg1H2YeiT5ikA4JZzmZ7Y=
+			</data>
+		</dict>
+		<key>icons8-recycle-500.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2GErmBGL7kvaGzq2pFXocUGvP58=
+			</data>
+			<key>hash2</key>
+			<data>
+			6iWvl+7t8KxjzreZzbwJb/ZHDKOoO3hrz16z46LcslE=
+			</data>
+		</dict>
+		<key>icons8-send-email-80.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YLtNsgMVLERjx9j5OfJQc4W6MUg=
+			</data>
+			<key>hash2</key>
+			<data>
+			kU1p/u8oOVLFpf9zjvsGzowyRyMz2lo7jhUhVJBdAqY=
+			</data>
+		</dict>
+		<key>icons8-upload-to-cloud-128.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+DXvedU1QLqCg48/NoXa2pNxp+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			ezZbWLXwizOWLCierKykuFVnhWozjYT9PKLKjV8Chwc=
+			</data>
+		</dict>
+		<key>icons8-upload-to-cloud-512.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gb6dwpVlMoCPFPNEiSSf77YebRM=
+			</data>
+			<key>hash2</key>
+			<data>
+			63Yi8ax3/nDeoAeeZcBt7mbCV3sTnA2sXSzk8sDzic8=
+			</data>
+		</dict>
 		<key>id/Xamarin.Forms.Platform.iOS.resources.dll</key>
 		<dict>
 			<key>hash</key>
@@ -2005,33 +2257,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+S3Bshnb/00Fj4itLLRyVZBeLto=
+			FThEMoAS2XA5cdJedlwuoaf2Jc0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ahTaBWefJLknCRbEG8AMdYbOpio6Ag+Ypv7nPCmD4fU=
+			aoZOK0jkxqWB/0vkL6uIFbkOs4d4s6H3uvqq3dWptMQ=
 			</data>
 		</dict>
 		<key>recover.dll</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c7mvCUU6FEYBSXMz5X/Gkb9a11Q=
+			4odgi5Gymc4I4EmxpAbSFbnq45c=
 			</data>
 			<key>hash2</key>
 			<data>
-			jdeY5CjmBCjv3cPjRbB6MbwRHtcZ2gbVcS1jh+tzeg8=
+			13iMfRTWYNA+Gd7BqAOkLaKcaQ5pcJi2JqN2IHHvQko=
 			</data>
 		</dict>
 		<key>recover.iOS.aotdata.arm64</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ci/c3/Cnl4YEHSQWenA3hVgcVwc=
+			yDo++z+N3JpzKh+MCKQziTrEx3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			8akHzy+IRKXdglHasj1b3pvMVt+jEi+WKLddsv6oXUk=
+			lK0nhOlfk0wISdhvNkMEnzZcOmRNBVwoTy9Wj8M5xjk=
 			</data>
 		</dict>
 		<key>recover.iOS.exe</key>
@@ -2060,11 +2312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pBl9O6cuHZViTKoYmmr5jcTy8JE=
+			OLX3A5bfMRAMBdSojEDaEUuSy+Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			mmNDtWLt8fPO7tdbMuK+gj1YYZWKg3U50RfyHWUPhA8=
+			ae87chbiPUZ2ie9v5hv6VpR2mGQ/iSdaSA994Yi1KlQ=
 			</data>
 		</dict>
 		<key>recover512.png</key>
@@ -2109,6 +2361,39 @@
 			<key>hash2</key>
 			<data>
 			RWJabZ7APG/jKGqWx95T8/ko9kYcLF0sEKaIRNixF0I=
+			</data>
+		</dict>
+		<key>recycle58.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yOKRDmMGO0ne+/HEfzMfF6dhbPs=
+			</data>
+			<key>hash2</key>
+			<data>
+			N35M9fAKRniLrWuSOtIDdpwwEAKON9TAXxpxdg8CRgA=
+			</data>
+		</dict>
+		<key>recycle80.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f3Ob5xOhAfuixkKwPdxsuzXddOA=
+			</data>
+			<key>hash2</key>
+			<data>
+			dMtXBVlUCZM1oHWM/ZfuyW4tp4cwHQ83erKJRJfgGcM=
+			</data>
+		</dict>
+		<key>recycle87.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KQcoUD0zEhZZf6TcnPGmaRI2+Mw=
+			</data>
+			<key>hash2</key>
+			<data>
+			cpT3TsuI8q6inAfqzfxzUTs+liQSI35uJ0YMskIiOcI=
 			</data>
 		</dict>
 		<key>redlight.png</key>

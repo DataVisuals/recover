@@ -86,16 +86,7 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon152.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon87.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon80.png">
-      <Visible>false</Visible>
-    </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon58.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon40.png">
@@ -107,10 +98,13 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover120.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover76-1.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle180.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle87.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle58.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -160,5 +154,32 @@
     <BundleResource Include="Resources\recycle28.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </BundleResource>
+    <BundleResource Include="Resources\icons8-recycle-500.png" />
+    <BundleResource Include="Resources\icons8-recycle-250.png" />
+    <BundleResource Include="Resources\icons8-recycle-150.png" />
+    <BundleResource Include="Resources\icons8-recycle-100.png" />
+    <BundleResource Include="Resources\icons8-recycle-50.png" />
+    <BundleResource Include="Resources\icons8-barcode-100.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\icons8-barcode-50.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\icons8-barcode-30.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\icons8-recycle-30.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\icons8-about-30.png" />
+    <BundleResource Include="Resources\icons8-about-60.png" />
+    <BundleResource Include="Resources\icons8-about-90.png" />
+    <BundleResource Include="Resources\icons8-about-120.png" />
+    <BundleResource Include="Resources\recycle80.png" />
+    <BundleResource Include="Resources\recycle87.png" />
+    <BundleResource Include="Resources\recycle58.png" />
+    <BundleResource Include="Resources\icons8-send-email-80.png" />
+    <BundleResource Include="Resources\icons8-upload-to-cloud-512.png" />
+    <BundleResource Include="Resources\icons8-upload-to-cloud-128.png" />
   </ItemGroup>
 </Project>
