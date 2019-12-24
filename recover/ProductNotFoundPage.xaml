@@ -8,7 +8,7 @@
 
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
 
-            <Label Text="We couldn't find this product, please help us by saving some key data for"
+            <Label Text="We couldn't find information for this product, please help us by providing a few details for "
                    HorizontalTextAlignment="Center"
                    FontSize="30"
                    TextColor="Green"/>

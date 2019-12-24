@@ -13,25 +13,25 @@
       "idiom": "iphone"
     },
     {
-      "filename": "Icon58.png",
+      "filename": "recycle58.png",
       "size": "29x29",
       "scale": "2x",
       "idiom": "iphone"
     },
     {
-      "filename": "Icon87.png",
+      "filename": "recycle87.png",
       "size": "29x29",
       "scale": "3x",
       "idiom": "iphone"
     },
     {
-      "filename": "Icon80.png",
+      "filename": "recycle80.png",
       "size": "40x40",
       "scale": "2x",
       "idiom": "iphone"
     },
     {
-      "filename": "recover120.png",
+      "filename": "recycle120-1.png",
       "size": "40x40",
       "scale": "3x",
       "idiom": "iphone"
@@ -67,37 +67,37 @@
       "idiom": "ipad"
     },
     {
-      "filename": "Icon58.png",
+      "filename": "recycle58-1.png",
       "size": "29x29",
       "scale": "2x",
       "idiom": "ipad"
     },
     {
-      "filename": "Icon40.png",
+      "filename": "recycle40.png",
       "size": "40x40",
       "scale": "1x",
       "idiom": "ipad"
     },
     {
-      "filename": "Icon80.png",
+      "filename": "recycle80-1.png",
       "size": "40x40",
       "scale": "2x",
       "idiom": "ipad"
     },
     {
-      "filename": "Icon167.png",
+      "filename": "recycle167.png",
       "size": "83.5x83.5",
       "scale": "2x",
       "idiom": "ipad"
     },
     {
-      "filename": "recover76-1.png",
+      "filename": "recycle76.png",
       "size": "76x76",
       "scale": "1x",
       "idiom": "ipad"
     },
     {
-      "filename": "Icon152.png",
+      "filename": "recycle152.png",
       "size": "76x76",
       "scale": "2x",
       "idiom": "ipad"
@@ -109,11 +109,13 @@
       "idiom": "ios-marketing"
     },
     {
+      "filename": "recycle120-2.png",
       "size": "60x60",
       "scale": "2x",
       "idiom": "car"
     },
     {
+      "filename": "recycle180-1.png",
       "size": "60x60",
       "scale": "3x",
       "idiom": "car"
@@ -134,18 +136,21 @@
     },
     {
       "role": "companionSettings",
+      "filename": "recycle58-2.png",
       "size": "29x29",
       "scale": "2x",
       "idiom": "watch"
     },
     {
       "role": "companionSettings",
+      "filename": "recycle87-1.png",
       "size": "29x29",
       "scale": "3x",
       "idiom": "watch"
     },
     {
       "role": "appLauncher",
+      "filename": "recycle80-2.png",
       "size": "40x40",
       "subtype": "38mm",
       "scale": "2x",

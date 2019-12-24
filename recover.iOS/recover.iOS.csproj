@@ -80,16 +80,7 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon1024.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon167.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon152.png">
-      <Visible>false</Visible>
-    </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon40.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon29.png">
@@ -98,13 +89,23 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recover76-1.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle180.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120-1.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle80.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle87.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle58.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle80-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle58-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle120-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle180-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle58-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle87-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle80-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle76.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle152.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle167.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle40.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -181,5 +182,9 @@
     <BundleResource Include="Resources\icons8-send-email-80.png" />
     <BundleResource Include="Resources\icons8-upload-to-cloud-512.png" />
     <BundleResource Include="Resources\icons8-upload-to-cloud-128.png" />
+    <BundleResource Include="Resources\recycle76.png" />
+    <BundleResource Include="Resources\recycle152.png" />
+    <BundleResource Include="Resources\recycle167.png" />
+    <BundleResource Include="Resources\recycle40.png" />
   </ItemGroup>
 </Project>

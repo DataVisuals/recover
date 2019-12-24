@@ -8,15 +8,28 @@
         <ContentPage Title="Welcome" IconImageSource="icons8-recycle-30.png">
             <StackLayout VerticalOptions="Center">
                 <Image Source="recover512.png" />
+                <Label Text="Better Recycling" HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center"
+                       TextColor="Green"/>
             </StackLayout>
+
         </ContentPage>
 
         <local:ScannerPage Title="Scanner" IconImageSource="icons8-barcode-30.png"/>
 
         <ContentPage Title="About" IconImageSource="icons8-about-30.png">
             <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
-                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="30"
-                    Text="Thanks to Icon8, Open Food Facts, api.postcodes.io and FontAwesome"/>
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="14" TextColor="Green"
+                    Text="Many thanks to - "/>
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="10" TextColor="Green"
+                    Text="Icon8 - https://icons8.com"/>
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="10" TextColor="Green"
+                    Text="Open Food Database - https://world.openfoodfacts.org"/>
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="10" TextColor="Green"
+                    Text="Postcodes.io - https://postcodes.io"/>
+                <Label HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="10" TextColor="Green"
+                    Text="Zebra Crossing - https://github.com/zxing/zxing"/>
+
             </StackLayout>
         </ContentPage>
 
