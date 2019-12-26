@@ -1,22 +1,19 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recover/WelcomeTabbedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recover/InspirationGenerator.cs">
     <Files>
-      <File FileName="recover/WelcomeTabbedPage.xaml" Line="13" Column="1" />
-      <File FileName="recover/ResultPage.xaml.cs" />
+      <File FileName="recover/WelcomeTabbedPage.xaml" Line="17" Column="1" />
+      <File FileName="recover/ResultPage.xaml.cs" Line="21" Column="9" />
       <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
       <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="recover/ProductNotFoundPage.xaml" Line="38" Column="38" />
+      <File FileName="recover/InspirationGenerator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="recover" expanded="True">
             <Node name="recover" expanded="True">
-              <Node name="ResultPage.xaml" expanded="True" />
-              <Node name="ScannerPage.xaml" expanded="True" />
-              <Node name="WelcomeTabbedPage.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="recover.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="InspirationGenerator.cs" selected="True" />
             </Node>
           </Node>
         </State>
