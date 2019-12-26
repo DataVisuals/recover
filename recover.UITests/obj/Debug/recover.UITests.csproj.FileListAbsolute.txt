@@ -1,0 +1,14 @@
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/recover.UITests.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/recover.UITests.pdb
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/Newtonsoft.Json.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/nunit.framework.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/nunit.framework.pdb
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/ZXing.Net.Mobile.Core.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/ZXingNetMobile.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/zxing.portable.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/bin/Debug/ZXing.Net.Mobile.Forms.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/obj/Debug/recover.UITests.csprojAssemblyReference.cache
+/Users/andrewspruce/Projects/recover/recover.UITests/obj/Debug/recover.UITests.csproj.CopyComplete
+/Users/andrewspruce/Projects/recover/recover.UITests/obj/Debug/recover.UITests.dll
+/Users/andrewspruce/Projects/recover/recover.UITests/obj/Debug/recover.UITests.pdb

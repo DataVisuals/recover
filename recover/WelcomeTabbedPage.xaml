@@ -6,10 +6,12 @@
     <TabbedPage.Children>
 
         <ContentPage Title="Welcome" IconImageSource="icons8-recycle-30.png">
-            <StackLayout VerticalOptions="Center">
+            <StackLayout>
                 <Image Source="recover512.png" />
-                <Label Text="Better Recycling" HorizontalOptions="Center"
+                <Label x:Name="QuoteLabel" Text="Better Recycling" HorizontalOptions="Center"
                        HorizontalTextAlignment="Center"
+                       FontSize="22"
+                       FontAttributes="Italic"
                        TextColor="Green"/>
             </StackLayout>
 

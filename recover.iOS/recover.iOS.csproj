@@ -106,6 +106,8 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle152.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle167.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle40-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\recycle40-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

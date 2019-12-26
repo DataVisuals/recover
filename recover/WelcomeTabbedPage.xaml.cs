@@ -15,6 +15,7 @@ namespace recover
         public WelcomeTabbedPage()
         {
             InitializeComponent();
+            QuoteLabel.Text = new InspirationGenerator().getQuote();
         }
     }
 }

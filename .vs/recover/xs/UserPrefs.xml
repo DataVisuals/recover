@@ -1,7 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F6EDDEA8-0B48-4CD7-880D-C45C82BA8E16}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="recover/WelcomeTabbedPage.xaml">
     <Files>
-      <File FileName="recover/WelcomeTabbedPage.xaml" Line="32" Column="1" />
+      <File FileName="recover/WelcomeTabbedPage.xaml" Line="13" Column="1" />
+      <File FileName="recover/ResultPage.xaml.cs" />
+      <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="recover.iOS/Main.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +13,7 @@
             <Node name="recover" expanded="True">
               <Node name="ResultPage.xaml" expanded="True" />
               <Node name="ScannerPage.xaml" expanded="True" />
-              <Node name="WelcomeTabbedPage.xaml" selected="True" />
+              <Node name="WelcomeTabbedPage.xaml" expanded="True" selected="True" />
             </Node>
             <Node name="recover.iOS" expanded="True">
               <Node name="Resources" expanded="True" />
@@ -23,14 +26,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.recover.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.ItemProperties.recover.UITests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.recover.iOS automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.bc7f77ad49b8bc08c6546c521bcfe7cd1101ed62">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="DHJ24R54F8" TeamId="5GURGNPD69" />
-  </MonoDevelop.Ide.ItemProperties.recover.iOS>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.recover.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.343FDD26-5893-4D74-A33D-16D522978384" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/andrewspruce/Projects/recover/recover/ResultPage.xaml.cs" relfile="recover/ResultPage.xaml.cs" line="24" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
